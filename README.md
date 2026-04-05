@@ -84,7 +84,7 @@ Supported revenue growth through data-driven insights
 
 Improved customer retention strategies
 
-#👤 Author
+# 👤 Author
 
 Tushar Vaishnav
 Data Analyst | Python | SQL | Power BI
