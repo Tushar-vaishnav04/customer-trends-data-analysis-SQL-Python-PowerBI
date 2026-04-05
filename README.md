@@ -15,9 +15,9 @@ Customer Segmentation
 Business Intelligence & Reporting
 SQL Query Optimization
 # 🛠️ Tools & Technologies
-Python: Pandas\n
-SQL: Queries\n
-Power BI: Interactive dashboards\n
+Python: Pandas
+SQL: Queries
+Power BI: Interactive dashboards
 
  # 🔍 Key Responsibilities & Analysis
 ✔Data Cleaning & Preparation (Python)
