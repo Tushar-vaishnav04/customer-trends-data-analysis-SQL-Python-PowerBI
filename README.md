@@ -8,16 +8,26 @@ Performed end-to-end customer behavior analysis to identify purchasing patterns,
 
 # 🎯 Key Skills Demonstrated
 Data Analysis
+
 Exploratory Data Analysis (EDA)
+
 Data Cleaning & Preprocessing
+
 Data Visualization
+
 Customer Segmentation
+
 Business Intelligence & Reporting
+
 SQL Query Optimization
+
 # 🛠️ Tools & Technologies
 Python: Pandas
+
 SQL: Queries
+
 Power BI: Interactive dashboards
+
 
  # 🔍 Key Responsibilities & Analysis
 ✔Data Cleaning & Preparation (Python)
