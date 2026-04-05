@@ -31,33 +31,57 @@ Power BI: Interactive dashboards
 
  # 🔍 Key Responsibilities & Analysis
 ✔Data Cleaning & Preparation (Python)
+
 Processed raw datasets by handling missing values and duplicates
+
 Standardized data formats and performed feature engineering
+
 Improved dataset quality for accurate analysis
+
 ✔ Exploratory Data Analysis (EDA)
+
 Analyzed customer demographics and purchasing behavior
+
 Identified trends in sales and customer engagement
+
 Evaluated correlations between key variables
+
 ✔ SQL Data Analysis
+
 Wrote optimized SQL queries for:
+
 Customer segmentation
+
 Revenue analysis
+
 Monthly sales trends
+
 Customer retention and churn analysis
+
 ✔ Dashboard Development (Power BI)
+
 Built interactive dashboards to track:
+
 Revenue KPIs
+
 Customer segments
+
 Sales performance trends
+
 Enabled stakeholders to make data-driven decisions
+
 # 📊 Key Achievements
 Identified high-value customers contributing ~80% of revenue
-Discovered seasonal sales trends to optimize marketing strategies
+
 Highlighted customer churn segments for retention campaigns
+
 Improved business insight visibility through dynamic dashboards
+
 # 💡 Business Impact
 Enabled targeted marketing strategies using customer segmentation
+
 Supported revenue growth through data-driven insights
+
 Improved customer retention strategies
 
 #👤 Author
