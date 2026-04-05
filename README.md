@@ -21,7 +21,8 @@ Business Intelligence & Reporting
 
 SQL Query Optimization
 
-# 🛠️ Tools & Technologies
+🛠️ Tools & Technologies
+
 Python: Pandas
 
 SQL: Queries
@@ -29,7 +30,8 @@ SQL: Queries
 Power BI: Interactive dashboards
 
 
- # 🔍 Key Responsibilities & Analysis
+🔍 Key Responsibilities & Analysis
+
 ✔Data Cleaning & Preparation (Python)
 
 Processed raw datasets by handling missing values and duplicates
@@ -70,23 +72,26 @@ Sales performance trends
 
 Enabled stakeholders to make data-driven decisions
 
-# 📊 Key Achievements
+📊 Key Achievements
+
 Identified high-value customers contributing ~80% of revenue
 
 Highlighted customer churn segments for retention campaigns
 
 Improved business insight visibility through dynamic dashboards
 
-# 💡 Business Impact
+💡 Business Impact
+
 Enabled targeted marketing strategies using customer segmentation
 
 Supported revenue growth through data-driven insights
 
 Improved customer retention strategies
 
-# 👤 Author
+👤 Author
 
 Tushar Vaishnav
+
 Data Analyst | Python | SQL | Power BI
 
 # 📬 Contact
