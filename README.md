@@ -2,7 +2,7 @@
 Complete Data Analytics Portfolio Project with end-to-end industry standard Data Analysis of Customer Shopping Trends from Retail Data using SQL, Python and Power BI.
 
 # 📊 Customer Behavior Data Analysis | Python • SQL • Power BI
-# 📌 Project Summary
+ 📌 Project Summary
 
 Performed end-to-end customer behavior analysis to identify purchasing patterns, segment customers, and generate actionable business insights. Leveraged Python, SQL, and Power BI to clean, analyze, and visualize data, supporting data-driven decision-making.
 
@@ -15,9 +15,9 @@ Customer Segmentation
 Business Intelligence & Reporting
 SQL Query Optimization
 # 🛠️ Tools & Technologies
-Python: Pandas
-SQL: Queries
-Power BI: Interactive dashboards
+Python: Pandas\n
+SQL: Queries\n
+Power BI: Interactive dashboards\n
 
  # 🔍 Key Responsibilities & Analysis
 ✔Data Cleaning & Preparation (Python)
